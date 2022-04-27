@@ -1,8 +1,3 @@
-
-
-💬 I’m not here right now, because this isn't actually a real place so leave a message instead! I may not respond instantly or at all - not because I do not want to, it's just that I don't have a lot of energy for all the things that life currently require of me. Just know that I wanted to.
-
-
 # FAQ
 You probably have a lot of questions and while I sometimes appear to have them, they're usually a best-effort sort of thing. Electronics is not my day job, I actually don't one as I'm currently suffering from a chronic illness that severely limits my ability to function beyond basic day-to-day stuff. I dabble in electronics when I have the energy to do so, because everyone needs a hobby in order to keep an active mind healthy. I find that building simple things gives me a sense of accomplishment though it might not seem like much to actual EE-engineers.
 
@@ -12,12 +7,12 @@ For anything else not answered up until this point, I've attempted to organize t
 
 - [1> General](#1-general)
   - [1.1> Why did you make it?](#11-why-no-response-to-my-ticket)
-  - [1.2> How can I help?](#how-can-i-help)
+  - [1.2> How can I help?](#12-how-can-i-help)
   - [1.5> Can I sell these?](#15-can-i-sell-these)
 - [2> Hardware](#2-hardware)
   - [2.1> Can you build me one?](#21-can-you-build-me-one)
-  - [2.2> Where can I get the PCBs?](#22-where-can-get-the-pcbs)
-  - [2.4> What joysticks can I use?](#24-what-joysticks-can-i-use)
+  - [2.2> Where can I get the PCBs?](#22-where-can-i-get-the-pcbs)
+  - [2.5> Where's the BOM?](#25-wheres-the-bom)
   - [2.6> It doesn’t work, why doesn’t it work?](#26-it-doesnt-work-why-doesnt-it-work)
 
 # 1> General
@@ -55,6 +50,8 @@ I take pride in doing simple things that anyone with access to decent tools shou
 The BOM (*Bill of Manufacturing*) is the list of components needed to build a project, so where on earth did I put it? That depends on your definition of what a BOM should look like. I unfortunately can't afford the rather extreme import and shipping costs associated with ordering from mouser, digikey and the other various professional sites, so I can't provide you with the specific part numbers for those sites (mainly as I wouldn't have the ability and knowledge to verify their suitability). They mostly only sell quality parts, but as it stands I simply can't afford them.
 
 The parts I use instead primarily come from sources such as ebay, aliexpress or banggood. Not exactly known for being particularly detailed when it comes to sales listings or even quality in some cases, but on the other hand they're cheap and you'll usually find an extreme amount of listings for the parts used with little to no difference between them. What I then call a BOMs should therefore be more considered as a collection of search queries, then you'd need to compare the pictures to see if the listing matches what has been used. This does lead to some open questions, this is unavoidable, but usually you could order a couple of different options for a modest amount of money.
+
+So where did I put it then? They're usually listed as part of the README for each project, when there are multiple designs as part of a repository you'd need to click the specific folder in order to find it.
 
 ## 2.6> It doesn't work, why doesn't it work?
 I try my best to make my designs easy to build, but that doesn't mean everyone's guaranteed success on their first attempt at building one. All is definitely not lost though, what you've earned is the perfect chance to learn more than you've bargained for. Start by doing a visual inspection, check that every components that have a polarity (meaning that they go in a certain way) is in the same orientation as can be seen in the pictures. Look for jumpers that are missing, pins you've forgotten to solder or simply accidentally bridged.
