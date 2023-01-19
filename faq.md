@@ -1,5 +1,5 @@
 # FAQ
-You probably have a lot of questions and while I sometimes appear to have them, they're usually a best-effort sort of thing. Electronics is not my day job, I actually don't one as I'm currently suffering from a chronic illness that severely limits my ability to function beyond basic day-to-day stuff. I dabble in electronics when I have the energy to do so, because everyone needs a hobby in order to keep an active mind healthy. I find that building simple things gives me a sense of accomplishment though it might not seem like much to actual EE-engineers.
+You probably have a lot of questions and while I sometimes appear to have them, they're usually a best-effort sort of thing. Electronics is not my day job, I actually don't one as I'm currently suffering from a chronic illness that severely limits my ability to function beyond basic day-to-day stuff. I dabble in electronics when I have the energy to do so, because everyone needs a hobby in order to keep an active mind healthy. I find that building simple things gives me a sense of accomplishment, though ultimately it might not seem like much to actual EE-engineers.
 
 The files made available through any of my repositories are free, but that does not mean that they come without any sort of limitations. Each repository will usually have a license associated with it if you want to know the specifics, but to keep things practical purposes - they're there because nothing in here comes with anything resembling a warranty. If you soldered it together, you take full responsibility for it (intended or accidental). If you connected it, ran it or powered it up - you're still responsible. I will however attempt to help you to the best of my abilities.
 
@@ -8,6 +8,8 @@ For anything else not answered up until this point, I've attempted to organize t
 - [1> General](#1-general)
   - [1.1> Why did you make it?](#11-why-no-response-to-my-ticket)
   - [1.2> How can I help?](#12-how-can-i-help)
+  - [1.3> Are you on YouTube?](#13-are-you-on-youtube)
+  - [1.4> Can I share it on YouTube?](#14-can-i-share-it-on-youtube)
   - [1.5> Can I sell these?](#15-can-i-sell-these)
 - [2> Hardware](#2-hardware)
   - [2.1> Can you build me one?](#21-can-you-build-me-one)
@@ -17,7 +19,7 @@ For anything else not answered up until this point, I've attempted to organize t
 
 # 1> General
 ## 1.1> Why no response to my ticket?
-As already mentioned, I do these things as a hobby while dealing with a chronic disease. I want to stay active in any way that I can, but unfortunately my ability to do so have been severely limited. There's no available midnight oil to burn, it has already been spent by the time I wake up in the morning. The good news however is that what I make is shared, you have all the resources available to figure things out.
+As already mentioned, I do these things as a hobby while dealing with a chronic disease. I want to stay active in any way that I can, but unfortunately my ability to do so have been severely limited. There's no available midnight oil to burn, it has already been spent by the time I wake up in the morning. The good news however is that what I make is shared, you have all the resources needed to figure things out. Chances are that a printed out schematic, a little elbow-grease will often lead to an actual answer before I ultimately manage to write up a reply that would more than likely be little else than questions intended to narrow things down the fault within the confines of the same schematic.
 
 ## 1.2> How can I help?
 There are many ways that you can help out with projects such as this, the easiest way is to just share your pictures and the fun you had building and using it - that's inspiring for aspiring hobby-tinkerers such as myself. If you find problems and have some bit of knowledge that you feel should exist somewhere within the repository, that is also a great way to contribute.
@@ -28,8 +30,14 @@ If on the other hand, you'd like to buy me a cup of coffee instead - there's a b
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/teblunde)
 
+## 1.3> Are you on YouTube?
+Yes, but only to a limited degree as editing videos often take away from the things I enjoy the most - building things. For that reason the type of content I create will for the most part serve as parts of documentation, but I would love a subscription for my [channel](https://www.youtube.com/@TEBLify). It is my hope that it becomes large enough to at least qualify for some sort of sponsorship, mainly as the rising costs of everything have severely impacted my ability to order prototype boards - without a functional prototype I can't readily share what I make.
+
+## 1.4> Can I share it on YouTube?
+As already mentioned in [Are you on YouTube?](https://github.com/tebl/tebl/edit/main/faq.md#13-are-you-on-youtube) I have a [channel](https://www.youtube.com/@TEBLify), it has videos that were made to serve as documentation rather than focus on editing and general presentability. I would love it if you were to make a video sharing something that I've designed, I'm sure you can do a significantly better job at presenting it. My only wish is that you include the links to my channel, or at the very least the specific GitHub-repository so that any viewer can find their way to the latest updated documentation.  
+
 ## 1.5> Can I sell these?
-Yes, but only as long as you stay within the limitations of the license for the specific project. What that means is that I don't provide any warranties beyond it worked that one time I built one, also with my health the way it is - you should be prepared to support the products you sell. Please don't charge more than what can be considered reasonable for the amount of time and components that go into it.
+Yes, but only as long as you stay within the limitations of the license for the specific project. What that means is that I can't provide any warranties beyond it having worked that one time I built one, also with my health the way it is - you should be prepared to support the products you sell. Please don't charge more than what can be considered reasonable for the amount of time and components that go into it.
 
 If you'd like to support the project, consider contributing towards improving the projects with your experiences from doing so. I'd appreciate it if you ordered your PCBs via my [PCBway](https://www.pcbway.com/project/member/?bmbno=04C9EDC7-08B5-43), but I'll understand if you'd rather use your own favourite PCB fabrication company instead. If you earn a little from them, consider buying me a cup of coffee time to time.
 
