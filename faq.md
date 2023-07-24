@@ -6,7 +6,7 @@ The files made available through any of my repositories are provided free, but t
 For anything else not answered up until this point, I've attempted to organize things into relevant sections below. Again, to the best of my abilities - which may at times be somewhat limited.
 
 - [1> General](#1-general)
-  - [1.1> Why did you make it?](#11-why-no-response-to-my-ticket)
+  - [1.1> Why is there no response to my ticket?](#11-why-is-there-no-response-to-my-ticket)
   - [1.2> How can I help?](#12-how-can-i-help)
   - [1.3> Are you on YouTube?](#13-are-you-on-youtube)
   - [1.4> Can I share it on YouTube?](#14-can-i-share-it-on-youtube)
@@ -18,7 +18,7 @@ For anything else not answered up until this point, I've attempted to organize t
   - [2.6> It doesn’t work, why doesn’t it work?](#26-it-doesnt-work-why-doesnt-it-work)
 
 # 1> General
-## 1.1> Why no response to my ticket?
+## 1.1> Why is there no response to my ticket?
 As already mentioned, I do these things as a hobby while dealing with a chronic disease. I want to stay active in any way that I can, but unfortunately my ability to do so have been severely limited. There's no available midnight oil to burn, it has already been spent by the time I wake up in the morning. The good news however is that what I make is shared, you have all the resources needed to figure things out. Chances are that a printed out schematic, a little elbow-grease will often lead to an actual answer before I ultimately manage to write up a reply that would more than likely be little else than questions intended to narrow things down the fault within the confines of the same schematic.
 
 ## 1.2> How can I help?
