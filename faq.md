@@ -31,7 +31,7 @@ One small thing that will help yet won't actually cost you anything at all, is u
 
 If on the other hand, you'd like to buy me a cup of coffee instead - there's a button below for that stuff.
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/teblunde)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/teblify)
 
 ## 1.3> Are you on YouTube?
 Yes, but only to a limited degree as editing videos often take away from the things I enjoy the most - building things. For that reason the type of content I create will for the most part serve as parts of documentation, but I would love a subscription for my [channel](https://www.youtube.com/@TEBLify). It is my hope that it may at some point become large enough to qualify for some sort of sponsorship, but that does not appear likely.
@@ -46,7 +46,7 @@ Yes, but only as long as you agree to stay within the limitations of the license
 
 If you'd like to support the project, consider contributing towards improving the projects with your experiences from doing so. I'd appreciate it if you ordered your PCBs via my [PCBway](https://www.pcbway.com/project/member/?bmbno=04C9EDC7-08B5-43), but I'll understand if you'd rather use your own favourite PCB fabrication company instead. If you earn a little from them, consider buying me a cup of coffee time to time.
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/teblunde)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/teblify)
 
 # 2> Hardware
 ## 2.1> Can you build me one?
