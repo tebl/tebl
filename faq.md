@@ -3,7 +3,7 @@ You probably have a lot of questions and while I sometimes would even appear to 
 
 The files made available through any of my repositories are provided free, but that does not mean that they come without any sort of limitation. Each repository should have a license associated with it, that details how that works - in excruciating detail. Read through it if you want to know the specifics, but in order to keep things somewhat practical - they're there because nothing that I've ever made available to you, have ever come with anything even resembling a warranty. If you built it, then you take full responsibility for what it does (both intended or accidental). If you connected it, used it in any way or powered it up - you're still responsible. I will however attempt to help you, to the best of my abilities.
 
-For anything else not answered up until this point, I've attempted to organize things into relevant sections below. Again, to the best of my abilities - which may at times be somewhat limited.
+For anything else not answered up until this point, I've attempted to organise things into relevant sections below. Again, to the best of my abilities - which may at times be somewhat limited.
 
 - [1> General](#1-general)
   - [1.1> Why is there no response to my ticket?](#11-why-is-there-no-response-to-my-ticket)
@@ -61,7 +61,7 @@ I unfortunately don't have the energy necessary to build more than my own protot
 I take pride in doing simple things that anyone with access to decent tools should be able to build - using only the cheapest ebay parts. If someone is charging more than a moderate amount of money for them, I recommend you build it yourself instead - you'll enjoy it more as well.
 
 ## 2.2> Where can I get the PCBs?
-- You can ask in your favorite Facebook-group, in particular those that specifically discuss vintage computers, to see if someone happens to have extras. Not everything I make will be related to a vintage computer, but that is mostly the types of designs I enjoy working on.
+- You can ask in your favourite Facebook-group, in particular those that specifically discuss vintage computers, to see if someone happens to have extras. Not everything I make will be related to a vintage computer, but that is mostly the types of designs I enjoy working on.
 - You can order them from [PCBway](https://pcbway.com/g/G6LK96), you'll find them as [shared projects](https://www.pcbway.com/project/member/?bmbno=04C9EDC7-08B5-43) - usually they will be my last known good designs (repositories often contain untested features). Each repository will usually have links pointing these out for you, so you don't need to spend all that time finding all of them (many of my projects require a set of PCBs). If you have extras, why not ask on your favourite Facebook whether someone wants one? 
 - You can have them produced using Gerber-files, these can be found within the *export*-directories in many of my repositories. If they're not there, see [Where are the Gerbers?](#23-where-are-the-gerbers)
 
