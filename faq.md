@@ -58,7 +58,7 @@ May I remind you that I'm not a professional. Writing documentation that almost 
 ## 2.1> Can you build me one?
 I unfortunately don't have the energy necessary to build more than my own prototypes, which is why they're available for *free* instead of being put on a web-shop somewhere. That's a good thing, it means you have everything I have so you can build as many as you'd like. At times there *may* be other people selling them, so consider asking on Facebook-groups related to the computer this project belongs to.
 
-I take pride in doing simple things that anyone with access to decent tools should be able to build - using only the cheapest ebay parts. If someone is charging more than a moderate amount of money for them, I recommend you build it yourself instead - you'll enjoy it more as well.
+I take pride in doing simple things that anyone with access to decent tools should be able to build - using only the cheapest eBay parts. If someone is charging more than a moderate amount of money for them, I recommend you build it yourself instead - you'll enjoy it more as well.
 
 ## 2.2> Where can I get the PCBs?
 - You can ask in your favourite Facebook-group, in particular those that specifically discuss vintage computers, to see if someone happens to have extras. Not everything I make will be related to a vintage computer, but that is mostly the types of designs I enjoy working on.
